@@ -11,3 +11,7 @@ neutralino.js
 # Neutralinojs related files
 .storage
 *.log
+
+node_modules/
+package-lock.json
+.tmp/
